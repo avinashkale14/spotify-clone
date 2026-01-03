@@ -1,5 +1,8 @@
 🔗 Live Demo: https://avinashkale14.github.io/spotify-clone/
 
+## Preview
+![Spotify Clone Preview](assets/screenshot.png)
+
 # Spotify Clone (HTML & CSS)
 
 A simple Spotify web UI clone built using only HTML and CSS.
